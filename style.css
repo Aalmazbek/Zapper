@@ -644,11 +644,14 @@ aside .ethernum{
     border-radius: 10px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
 }
 
-aside .ethernum img{
-    margin: 0 20px;
+aside .ethernum img + img{
+    margin-left: 15%;
 }
+
 
 aside .dashboard{
     height: 60px;
