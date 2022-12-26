@@ -646,6 +646,7 @@ aside .ethernum{
     align-items: center;
     justify-content: space-between;
     padding: 0 10%;
+    cursor: pointer;
 }
 
 aside .ethernum img + img{
@@ -663,6 +664,7 @@ aside .dashboard{
     background-color: #784ffe22;
     color: #784FFE;
     margin: 20px 0;
+    cursor: pointer;
 }
 
 aside .dashboard img{
